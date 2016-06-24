@@ -2,7 +2,7 @@
 
 💻💯🍽Boilerplate setup for quick prototyping with es6 using budo to build and mocha for testing.
 
- - Build and serve on localhost:9966
+ - Build and serve on localhost:8080
 
   `npm start`
 
